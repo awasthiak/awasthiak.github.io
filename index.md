@@ -6,5 +6,5 @@ layout: page
 title: Home
 ---
 
-
+I would love to write on aesthetics for life. Let us strive to make life beautiful as far as possible. There is nothing in life that is beyond aesthetic consideration.
    
